@@ -1,0 +1,14 @@
+{
+  "name": "team-generator-hw10",
+  "version": "1.0.0",
+  "description": "This is an application that generates a team profile that consist of manager, engineer and intern",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Mahmoud Cali",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
