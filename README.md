@@ -3,7 +3,7 @@
 
 # random-team-generator-hw10 
 # Description
-A node.js team profile generator that allows you to generate a HTML website with team data shown in cards.
+A node.js team profile generator that allows you to generate a static HTML website with team data shown in cards.
 # Usage
 Go to the **./index.js file** and run **node index.js** in the terminal,
 after you run that, you will be promted with a series of question that you will need to answer
